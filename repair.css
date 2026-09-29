@@ -1,0 +1,3 @@
+/* v1.1: contain decorative collage tiles in their own frame, including reduced motion/no-JS. */
+.collage,html,body{max-width:100%;overflow-x:clip}
+.pill span{font-size:clamp(18px,calc(10px + 1.02vw),37px)}
